@@ -1,0 +1,15 @@
+0 10 0
+1 4 1
+2 4 1
+3 4 0
+4 4 0
+5 5 0
+6 4 0
+7 6 0
+8 6 0
+9 6 0
+10 6 0
+0              1                        Szymcio O jgaoer     18:30 10-6-2023
+1              2                          Rupik L rtengw     19:00 11-6-2023
+4	Adrian		Nowak		2002		Mistrz Wykonczenowki		250		BoryniaCity AmsterdamStrasse 21-37 69
+0	4		Adrian Nowak numba	BURGER
